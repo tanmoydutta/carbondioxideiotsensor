@@ -6,3 +6,4 @@ Cyllene is an IoT sensor for Carbon di Oxide concentration detection. It is base
 - USB Type C connector
 - USB / LiPo Battery powered
 - Onboard LiPo charger
+- ![alt text](https://github.com/tanmoydutta/carbondioxideiotsensor/blob/main/Cyllene.jpg?raw=true)
