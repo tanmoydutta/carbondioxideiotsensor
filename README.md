@@ -2,7 +2,7 @@ Cyllene is an IoT sensor for Carbon di Oxide concentration detection. It is base
 - Carbon-di-Oxide sensor
 - WiFi and Bluetooth/BLE connectivity
 - Onboard antenna
-- Programmabe using onboard USB UART interface
+- Programmable using onboard USB UART interface
 - USB Type C connector
 - USB / LiPo Battery powered
 - Onboard LiPo charger
