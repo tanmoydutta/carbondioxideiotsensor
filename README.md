@@ -9,6 +9,11 @@ Cyllene is an IoT sensor for Carbon di Oxide concentration detection. It is base
 ![alt text](https://github.com/tanmoydutta/carbondioxideiotsensor/blob/main/images/Cyllene.jpg?raw=true)
 
 This project is certified for Open Source Hardware:
-![alt text](https://github.com/tanmoydutta/carbondioxideiotsensor/blob/main/images/certification-mark-NL000007-wide.png?raw=true)
+<p align="center">
+  <a href="https://certification.oshwa.org/nl000007.html">
+    <img src="/images/certification-mark-NL000007-wide.png?raw=true" alt="OSHWA" width="350" title="OSHWA Certification">
+  </a>
+</p>
+
 
 ![alt text](https://github.com/tanmoydutta/carbondioxideiotsensor/blob/main/images/oshw_license.png?raw=true)
