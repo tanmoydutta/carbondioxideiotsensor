@@ -9,7 +9,7 @@ Cyllene is an IoT module for Carbon di Oxide concentration detection. It is base
 
 This is a conceptual view of the new enclosure for mounting on a whiteboard -
 <p align="center">
-  <img src="/images/Cyllene_Box.png?raw=true" width="350" title="Cyllene">
+  <img src="/images/Cyllene_Box.png?raw=true" title="Cyllene 3D">
 </p>
 
 
