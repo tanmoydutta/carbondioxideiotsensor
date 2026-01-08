@@ -1,11 +1,17 @@
-Cyllene is an IoT sensor for Carbon di Oxide concentration detection. It is based on SCD-41 CO2 sensor from Sensirion. Additionally powered by an ESP32 D4 Pico micro controller for WiFi and Bluetooth/BLE connectivity. Features include - 
+Cyllene is an IoT module for Carbon di Oxide concentration detection. It is based on SCD-41 CO2 sensor from Sensirion. The core controller is an ESP32 D4 Pico for WiFi and Bluetooth/BLE connectivity. Features include - 
 - Carbon-di-Oxide sensor
 - WiFi and Bluetooth/BLE connectivity
 - Onboard antenna
 - Programmable using onboard USB UART interface
 - USB Type C connector
-- USB / LiPo Battery powered
-- Onboard LiPo charger
+- USB / LiPo Battery powered (Optional)
+- Onboard LiPo charger (Optional)
+
+This is a conceptual view of the new enclosure for mounting on a whiteboard -
+<p align="center">
+  <img src="/images/Cyllene_Box.png?raw=true" width="350" title="Cyllene">
+</p>
+
 
 <p align="center">
   <img src="/images/Cyllene.jpg?raw=true" width="350" title="Cyllene">
